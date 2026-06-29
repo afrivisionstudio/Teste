@@ -1,0 +1,14 @@
+# Fichiers IDE
+.vscode/
+.idea/
+
+# Fichiers de build
+node_modules/
+dist/
+
+# Fichiers environnement
+.env
+
+# Fichiers temporaires
+*.log
+*.tmp
